@@ -1,1 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xDmvZ4it)
+
+Dia 23/04/2026: Aprendendo sobre bancos de dados, SQL e as bibliotecas em Haskell para realizar a conexão entre o Back-End e o banco. Estou utilizando de IA's (Gemini até então) para melhor me contextualizar e decidir a interface que usarei, bem como a biblioteca em Haskell que melhor se encaixa com a proposta do trabalho, tendo em vista que não tenho conhecimentos na área de Banco de Dados. Em breve devo fazer um commit com o código do Banco de Dados em SQL.
