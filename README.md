@@ -10,4 +10,6 @@ Também foi implementado o sistema de histórico com até 10 versões anteriores
 Agora há um campo para a criação de perícias customizadas dos jogadores (no modelo de ficha haviam 4 campos em branco na tabela de perícias para que o jogador as criasse, a depender do andar da jogatina).
 A IA me ensinou e criou o arquivo 02_seed.sql, já preparado para docker. Isso já cria automaticamente os 3 usuários (no caso, eu e meus amigos), junto com suas senhas de acesso.
 
+DESCONSIDERAR "rpg_cursed.sql" - arquivo em desuso após atualização
+
 
